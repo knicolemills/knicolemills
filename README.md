@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knicolemills
-- 👀 I’m interested in learning the basics of Java and Javascript.
-- 🌱 I’m currently learning in LaunchCode, based out of Kansas City, MO.
+- 👀 I’m building my skillset through using Java and JavaScript.
+- 🌱 I am a previous graduate of LaunchCode, based out of Kansas City, MO.
 - 💼 I work as a QA Analyst at PayIt LLC.
 <!---
 knicolemills/knicolemills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
